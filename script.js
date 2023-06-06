@@ -8,6 +8,6 @@ function toggleMode() {
     img.setAttribute('alt', 'griffith bacana')  
   } else {
     img.setAttribute('src', './assets/avatar.png')
-    img.setAttribute('alt', 'femto malvadeza')
+    img.setAttribute('alt', 'femto malvadeza')  
   }
 }
