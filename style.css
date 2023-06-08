@@ -112,19 +112,6 @@ ul {
   padding: 24px 0;
 }
 
-ul li img {
-  width: 42px;
-  height: 42px;
-  display: flex;
-
-  position: absolute;
-  z-index: 1;
-  top: 40%;
-  transform: translateY(-33%);
-
-  padding: 2px;
-}
-
 ul li a {
   display: flex;
   align-items: center;
